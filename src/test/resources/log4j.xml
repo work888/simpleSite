@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="com.seniorofjava.app">
+	<logger name="com.work888.app">
 		<level value="info" />
 	</logger>
 	

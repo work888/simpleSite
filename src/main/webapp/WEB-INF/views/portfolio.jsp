@@ -9,9 +9,9 @@
 
 <table align="center" width="80%">
 <tr>
-<td><a href="localhost:8080/app">Main</a></td>
-<td><a href="localhost:8080/app/portfolio">Portfolio</a></td>
-<td><a href="localhost:8080/app/contact">Contact</a></td>
+<td><a href="http://localhost:8080/app">Main</a></td>
+<td><a href="http://localhost:8080/app/portfolio">Portfolio</a></td>
+<td><a href="http://localhost:8080/app/contact">Contact</a></td>
 </tr>
 </table>
 </body>

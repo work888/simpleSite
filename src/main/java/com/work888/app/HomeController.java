@@ -1,4 +1,4 @@
-package com.seniorofjava.app;
+package com.work888.app;
 
 import java.util.Locale;
 
